@@ -1,0 +1,5 @@
+/Users/xamyak/Desktop/sqltest1/sqltest1/obj/Debug/net5.0/sqltest1.csproj.AssemblyReference.cache
+/Users/xamyak/Desktop/sqltest1/sqltest1/obj/Debug/net5.0/sqltest1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xamyak/Desktop/sqltest1/sqltest1/obj/Debug/net5.0/sqltest1.AssemblyInfoInputs.cache
+/Users/xamyak/Desktop/sqltest1/sqltest1/obj/Debug/net5.0/sqltest1.AssemblyInfo.cs
+/Users/xamyak/Desktop/sqltest1/sqltest1/obj/Debug/net5.0/sqltest1.csproj.CoreCompileInputs.cache

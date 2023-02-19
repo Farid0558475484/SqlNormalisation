@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{AF58A43F-E082-430E-A1AA-96138598DD16}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="sqltest1/SosialPage.cs">
+    <Files>
+      <File FileName="sqltest1/Program.cs" Line="9" Column="47" />
+      <File FileName="sqltest1/Student.cs" Line="18" Column="2" />
+      <File FileName="sqltest1/SosialPage.cs" Line="8" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="sqltest1" expanded="True">
+            <Node name="sqltest1" expanded="True">
+              <Node name="SosialPage.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.sqltest1 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
