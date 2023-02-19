@@ -3,3 +3,13 @@
 /Users/xamyak/Desktop/sqltest1/sqltest1/obj/Debug/net5.0/sqltest1.AssemblyInfoInputs.cache
 /Users/xamyak/Desktop/sqltest1/sqltest1/obj/Debug/net5.0/sqltest1.AssemblyInfo.cs
 /Users/xamyak/Desktop/sqltest1/sqltest1/obj/Debug/net5.0/sqltest1.csproj.CoreCompileInputs.cache
+/Users/xamyak/Desktop/sqltest1/sqltest1/bin/Debug/net5.0/sqltest1.deps.json
+/Users/xamyak/Desktop/sqltest1/sqltest1/bin/Debug/net5.0/sqltest1.runtimeconfig.json
+/Users/xamyak/Desktop/sqltest1/sqltest1/bin/Debug/net5.0/sqltest1.runtimeconfig.dev.json
+/Users/xamyak/Desktop/sqltest1/sqltest1/bin/Debug/net5.0/sqltest1.dll
+/Users/xamyak/Desktop/sqltest1/sqltest1/bin/Debug/net5.0/ref/sqltest1.dll
+/Users/xamyak/Desktop/sqltest1/sqltest1/bin/Debug/net5.0/sqltest1.pdb
+/Users/xamyak/Desktop/sqltest1/sqltest1/obj/Debug/net5.0/sqltest1.dll
+/Users/xamyak/Desktop/sqltest1/sqltest1/obj/Debug/net5.0/ref/sqltest1.dll
+/Users/xamyak/Desktop/sqltest1/sqltest1/obj/Debug/net5.0/sqltest1.pdb
+/Users/xamyak/Desktop/sqltest1/sqltest1/obj/Debug/net5.0/sqltest1.genruntimeconfig.cache
